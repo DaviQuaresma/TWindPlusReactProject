@@ -6,10 +6,6 @@ Este é um projeto inspirado no Gmail, construído utilizando **React** e **Tail
 
 - [Características](#características)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Características
 
