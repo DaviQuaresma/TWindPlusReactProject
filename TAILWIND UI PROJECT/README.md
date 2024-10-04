@@ -6,7 +6,6 @@ Este é um projeto inspirado no Gmail, construído utilizando **React** e **Tail
 
 - [Características](#características)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
 - [Uso](#uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Contribuição](#contribuição)
@@ -24,14 +23,3 @@ Este é um projeto inspirado no Gmail, construído utilizando **React** e **Tail
 
 - [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
 - [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário para estilização rápida e responsiva.
-- [React Router](https://reactrouter.com/) - Para navegação entre diferentes páginas da aplicação.
-
-## Instalação
-
-Para rodar este projeto em sua máquina local, siga os passos abaixo:
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/gmail-inspired.git
-   cd gmail-inspired
