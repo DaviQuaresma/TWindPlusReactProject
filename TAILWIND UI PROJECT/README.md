@@ -17,5 +17,5 @@ Este é um projeto inspirado no Gmail, construído utilizando **React** e **Tail
 
 ## Tecnologias Utilizadas
 
-- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
-- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário para estilização rápida e responsiva.
+- ⚛️ [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
+- 🛠️ [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário para estilização rápida e responsiva.
