@@ -13,7 +13,9 @@ function App() {
     <>
       <Header />
       <Container>
-        <div className="flex flex-col md:flex-row gap-2 xl:gap-4 h-full relative">
+        <div className="
+          flex flex-col md:flex-row gap-2 xl:gap-4 h-full relative
+        ">
           <Sidebar />
           <EmailList setOpenEmail={setOpenEmail} />
           {openEmail && <EmailContent email={openEmail} onClose={() => setOpenEmail(null)} />}

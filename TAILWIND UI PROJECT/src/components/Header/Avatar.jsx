@@ -1,4 +1,4 @@
-import avatarImg from '/public/user.svg'
+import avatarImg from '/user.svg'
 
 const Avatar = () => (
     <img
